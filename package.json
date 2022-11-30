@@ -1,0 +1,16 @@
+{
+  "name": "aiproject",
+  "version": "1.0.0",
+  "description": "一个集成各种ai功能的网站",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "吕崇想",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^12.0.0"
+  }
+}
